@@ -1,0 +1,2 @@
+This repository was created for Loyola University Chicago's Distributed Systems class (COMP 439) in the Fall of 2014.
+It was created as part of a demonstration showing how to set up a GitHub repository using GitBash.
